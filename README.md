@@ -11,7 +11,7 @@ Firefox ebuild with GTK3 support added (gtk3 useflag).
 
 fvwm
 ----
-FVWM ebuild with a bunch of patched added (vanille useflag).
+FVWM ebuild with a bunch of patches added (vanille useflag).
 
 mozplugger
 ----------
